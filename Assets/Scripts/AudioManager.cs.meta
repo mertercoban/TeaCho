@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 255f14b5f25bbdd4f886c7d7a98a3a3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - musicSfx: {instanceID: 0}
+  - background: {fileID: 8300000, guid: c4213183227f2ea42a673a34fc39430c, type: 3}
+  - walk: {fileID: 8300000, guid: 4074b0c9d57ee42468812a8f7f8c5570, type: 3}
+  - teleport: {fileID: 8300000, guid: 7f6ac535b7b01bd4ab6605f457293baa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
